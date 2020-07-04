@@ -3,6 +3,8 @@
   "author": "Ricardo Oliveira",
   "description": "This is a project created for a FreeCodeCamp's Node course.",
   "keywords": ["freecodecamp", "nodejs", "glitch", "npm"],
+  "license": "MIT",
+  "version": "1.0.0",
   "dependencies": {
     "express": "^4.14.0"
   },
